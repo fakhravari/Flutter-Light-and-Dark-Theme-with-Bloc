@@ -7,4 +7,4 @@ Dependencies:
   equatable: ^2.0.5
 
 ## WebSite
-- [Lab: Write your first Flutter app](https://fakhravari.ir)
+- [Fakhravari.ir](https://fakhravari.ir)
